@@ -1,0 +1,3 @@
+# CONTRIBUTORS
+
+- Sagar Sehgal
