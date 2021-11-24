@@ -6,3 +6,4 @@
 - Soumya S. Samal
 - Sagar Ramlani
 - Shrinit Goyal
+- Jayndra Todawat
